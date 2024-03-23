@@ -8,14 +8,14 @@ export const Rundown = () => {
 
         <div className="mt-4 max-w-3xl grid md:grid-cols-2 gap-2 mx-auto">
           <div className="">
-            <div className=" px-6 py-4 bg-stone-50 border-black border text-black">
+            <div className=" px-6 py-4  border-black border text-black" style={{backgroundColor: "#f5efd6"}}>
               <p className="font-black underline text-lg">Date & Time</p>
               <p>
                 Runic will start at 12pm on January 20th and end at 12pm on
                 January 21st.
               </p>
             </div>
-            <div className="mt-2 px-6 py-4 bg-stone-50 border-black border text-black">
+            <div className="mt-2 px-6 py-4 border-black border text-black" style={{backgroundColor: "#f5efd6"}}>
               <p className="font-black underline text-lg">Eligibility</p>
               <p>
                 All highschoolers and middleschoolers are welcome to attend and
@@ -30,7 +30,7 @@ export const Rundown = () => {
         </div>
 
         <a href="https://register.runic.rsvp">
-          <div className="flex items-center max-w-3xl mx-auto mt-4 space-x-2 justify-center px-4 py-2 bg-white text-accent border border-white hover:bg-transparent hover:text-white transition rounded-md w-full text-lg underline">
+          <div className="flex items-center max-w-3xl mx-auto mt-4 space-x-2 justify-center px-4 py-2 text-accent border border-white hover:bg-transparent hover:text-white transition rounded-md w-full text-lg underline" style={{backgroundColor: "#f5efd6"}}>
             <p>Register</p>
 
             <FaExternalLinkAlt size={15} />
