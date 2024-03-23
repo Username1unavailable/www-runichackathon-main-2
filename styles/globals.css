@@ -12,12 +12,12 @@ body {
 
 body {
   background-color: #262d37;
-  color: #FAF9F6;
+  color: #f5efd6;
   font-family: "Jetbrains Mono", monospace;
 }
 
 .outlineText {
-  -webkit-text-stroke: 1px #FAF9F6;
+  -webkit-text-stroke: 1px #f5efd6;
 }
 
 .gridImage {
