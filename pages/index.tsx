@@ -163,7 +163,7 @@ export default function Home() {
               style={{
                 zIndex: 999,
                 background:
-                  "linear-gradient(180deg, rgba(255, 0, 0, 0.00) 0%, #FF0000 100%)",
+                  "linear-gradient(180deg, rgba(255, 0, 0, 0.00) 0%, #FF6961 100%)",
               }}
             ></div>
           </div>
