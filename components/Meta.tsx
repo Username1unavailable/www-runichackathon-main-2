@@ -54,13 +54,13 @@ const Meta = ({
         <meta key="tw_img" name="twitter:image" content={`/link-image.png`} />
       </>
     )}
-    <meta key="theme_color" name="theme-color" content={"#7100E1"} />
-    <meta key="tile_color" name="msapplication-TileColor" content={"#7100E1"} />
+    <meta key="theme_color" name="theme-color" content={"#FF0000"} />
+    <meta key="tile_color" name="msapplication-TileColor" content={"#FF0000"} />
     <link
       key="safari_icon"
       rel="mask-icon"
       href={`${url}/safari-pinned-tab.png`}
-      color={"#7100E1"}
+      color={"#FF0000"}
     />
     <link
       key="apple_icon"
