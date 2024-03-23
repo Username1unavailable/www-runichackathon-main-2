@@ -94,7 +94,7 @@ export default function Home() {
                       introducing...
                     </h1>
                     <h1 className="text-6xl lg:text-8xl mt-[5px] ml-[-5px]">
-                      RUNIC
+                      E Med
                     </h1>
                     <div className="flex justify-start md:justify-start">
                       <div className="space-y-1 lg:space-y-3 mt-3 md:mt-[10px]">
