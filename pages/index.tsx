@@ -96,7 +96,7 @@ export default function Home() {
                     <h1 className="text-6xl lg:text-8xl mt-[5px] ml-[-5px]">
                       RUNIC
                     </h1>
-                    <div className="flex justify-center md:justify-normal">
+                    <div className="flex justify-start md:justify-start">
                       <div className="space-y-1 lg:space-y-3 mt-3 md:mt-[10px]">
                         <img
                           src="/blob.svg"
@@ -121,7 +121,7 @@ export default function Home() {
                       <p>I'm interested:</p>
                       <a
                         href="https://register.runic.rsvp"
-                        className="flex space-x-2 items-center justify-center underline text-center rounded-md bg-accent font-bold text-lg hover:bg-[#3C0177] transition w-full py-3"
+                        className="flex space-x-2 items-center justify-center underline text-center rounded-md bg-accent font-bold text-lg hover:bg-red-700 transition w-full py-3"
                       >
                         <span>Register</span>
                         <HiOutlineExternalLink size={20} />
@@ -163,7 +163,7 @@ export default function Home() {
               style={{
                 zIndex: 999,
                 background:
-                  "linear-gradient(180deg, rgba(113, 0, 225, 0.00) 0%, #7100E1 100%)",
+                  "linear-gradient(180deg, rgba(255, 0, 0, 0.00) 0%, #FF0000 100%)",
               }}
             ></div>
           </div>
