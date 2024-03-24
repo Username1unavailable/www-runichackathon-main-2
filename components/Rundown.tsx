@@ -30,7 +30,7 @@ export const Rundown = () => {
         </div>
 
         <a href="https://register.runic.rsvp">
-          <div className="flex items-center max-w-3xl mx-auto mt-4 space-x-2 justify-center px-4 py-2 text-accent border border-white hover:bg-transparent hover:text-white transition rounded-md w-full text-lg underline" style={{backgroundColor: "#f5efd6"}}>
+          <div className="flex items-center max-w-3xl mx-auto mt-4 space-x-2 justify-center px-4 py-2 text-accent border border-black hover:bg-transparent hover:text-black transition rounded-md w-full text-lg underline" style={{backgroundColor: "#f5efd6"}}>
             <p>Register</p>
 
             <FaExternalLinkAlt size={15} />
