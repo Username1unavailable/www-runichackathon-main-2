@@ -14,10 +14,10 @@ export const WhatIsHackathon = () => {
           Don&apos;t worry, there&apos;ll be no hacking involved.
         </p>
         <div className="text-xl md:text-2xl mt-4">
-          A <span className="text-blue-300 font-bold">hackathon</span> is a
+          A <span className="text-blue-200 font-bold">hackathon</span> is a
           social event where people get together to code{" "}
-          <span className="text-blue-325 font-bold">awesome</span> projects in
-          a <span className="text-blue-350 font-bold">limited time</span>. Our
+          <span className="text-blue-300 font-bold">awesome</span> projects in
+          a <span className="text-blue-400 font-bold">limited time</span>. Our
           hackathon will welcome beginners, experts, and everybody in between!
         </div>
 
