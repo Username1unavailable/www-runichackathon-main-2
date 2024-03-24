@@ -13,14 +13,14 @@ export const WhatIsHackathon = () => {
         <p className="text-xl md:text-2xl  md:p-0 text-gray-400">
           Don&apos;t worry, there&apos;ll be no hacking involved.
         </p>
-        
-        <div class="text-xl md:text-2xl mt-4"> 
-        A <span style="color: #90E0EF;">hackathon</span> is a 
-        social event where people get together to code {" "}
-        <span style="color: #ADE8F4;">awesome</span> projects in 
-        a <span style="color: #CAFOF8;">limited time</span>. Our 
-        hackathon will welcome beginners, experts, and everybody in between! 
+        <div className="text-xl md:text-2xl mt-4">
+          A <span className="text-blue-200 font-bold">hackathon</span> is a
+          social event where people get together to code{" "}
+          <span className="text-blue-300 font-bold">awesome</span> projects in
+          a <span className="text-blue-400 font-bold">limited time</span>. Our
+          hackathon will welcome beginners, experts, and everybody in between!
         </div>
+        
 
         <div className="mt-5 px-4 md:px-0 md:mt-[5vh] space-y-6 mx-auto max-w-[800px]">
           <div className="grid grid-cols-1 gap-6">
