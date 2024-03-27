@@ -120,7 +120,7 @@ export default function Home() {
                     <div className="mt-6 flex flex-col space-y-1">
                       <p>I'm interested:</p>
                       <a
-                        href="https://register.runic.rsvp"
+                        href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
                         className="flex space-x-2 items-center justify-center underline text-center rounded-md bg-accent font-bold text-lg hover:bg-red-700 transition w-full py-3"
                       >
                         <span>Register</span>
