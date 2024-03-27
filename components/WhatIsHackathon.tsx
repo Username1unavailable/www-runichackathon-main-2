@@ -11,14 +11,16 @@ export const WhatIsHackathon = () => {
           Hackathon?
         </h1>
         <p className="text-xl md:text-2xl  md:p-0 text-gray-400">
-        &#40;Don't worry, there's no actual hacking involved!&#41;
+        &#40;Don't worry, there&#39;s no actual hacking involved!&#41;
         </p>
         <div className="text-xl md:text-2xl mt-4">
   A <span style={{ color: "#90E0EF", fontWeight: 'bold' }}>hackathon</span> is a
   social event where people get together to code{" "}
   <span style={{ color: "#ADE8F4", fontWeight: 'bold' }}>awesome</span> projects in
-  a <span style={{ color: "#CAF0F8", fontWeight: 'bold' }}>limited time</span>. Our
-  hackathon will welcome beginners, experts, and everybody in between!
+  a <span style={{ color: "#CAF0F8", fontWeight: 'bold' }}>limited time</span>. E-Med Hacks will welcome beginners, experts, and everybody in between!
+
+
+
 </div>
         
 
