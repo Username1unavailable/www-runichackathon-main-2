@@ -11,14 +11,12 @@ export const Rundown = () => {
             <div className=" px-6 py-4  border-black border text-black" style={{backgroundColor: "#faf4e8"}}>
               <p className="font-black underline text-lg">Date & Time</p>
               <p>
-                E-Med will take place in the Bay area on May.
-              </p>
+              Join us from 9 AM - 9 PM on May XX, 2024!              </p>
             </div>
             <div className="mt-2 px-6 py-4 border-black border text-black" style={{backgroundColor: "#faf4e8"}}>
               <p className="font-black underline text-lg">Eligibility</p>
               <p>
-                All college students, highschoolers, and middleschoolers are welcome to attend and
-                have an amazing time at E-Med!
+              All high-schoolers, middle-schoolers, and undergrads are welcome to attend and have an amazing time at E-Med!
               </p>
             </div>
           </div>
