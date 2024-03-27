@@ -134,7 +134,7 @@ export default function Home() {
                 </div>
               </main>
               <p className="max-w-4xl text-lg mx-auto text-center p-6 md:p-0">
-                eMed is going to be an in-person hackathon in the Bay Area.
+                E-Med is going to be an in-person hackathon in the Bay Area.
                 Join us in 24 hours of hacking, workshops, and making
                 connections. No prior coding experience? No problem! We'll
                 provide all the support you need to learn coding and leave with

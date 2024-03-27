@@ -5,9 +5,9 @@ const makeTitle = (title: string, name: string) =>
   title === name ? title : `${title} – ${name}`;
 
 const Meta = ({
-  title = `eMed - a hackathon like no other in Bay Area.`, // page title
-  name = `eMed - a hackathon like no other in Bay Area.`, // site name
-  description = "eMed is taking place in May in the Bay Area. All middleschool, highschool, and college students are welcome at the hackathon!", // page description
+  title = `E-Med - a hackathon like no other in Bay Area.`, // page title
+  name = `E-Med - a hackathon like no other in Bay Area.`, // site name
+  description = "E-Med is taking place in May in the Bay Area. All middleschool, highschool, and college students are welcome at the hackathon!", // page description
   image = "/link-image.png", // social card image URL
   url = "https://eMed.rsvp",
   target = "teenagers",

@@ -11,7 +11,7 @@ const info = [
   },
   {
     header: "I'm not that good at coding...",
-    text: "eMed is for hackers of all skill levels! We'll have workshops and other events so join us and let's learn together.",
+    text: "E-Med is for hackers of all skill levels! We'll have workshops and other events so join us and let's learn together.",
   },
   {
     header: "What can I make",
@@ -19,7 +19,7 @@ const info = [
   },
   {
     header: "My parents are worried!",
-    text: "We're here to help, ask them to reach out to us at emedhacks@gmail.com and we'll make sure to answer all their questions. eMed will be supervised by background checked adults.",
+    text: "We're here to help, ask them to reach out to us at emedhacks@gmail.com and we'll make sure to answer all their questions. E-Med will be supervised by background checked adults.",
   },
   {
     header: "I have another question",

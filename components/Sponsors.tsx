@@ -10,7 +10,7 @@ export const Sponsors = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-4	px-[10vw] md:px-2">
           <SponsorBox
             header={"HCB"}
-            text={"Allows us to manage our finances and make eMed Hacks work!"}
+            text={"Allows us to manage our finances and make E-Med Hacks work!"}
             imageUrl={`https://assets.hackclub.com/hcb-dark.svg`}
             link={"https://hcb.hackclub.com"}
           />
