@@ -17,9 +17,9 @@ const Meta = ({
     <meta key="og_locale" property="og:locale" content="en_US" />
     <meta key="og_type" property="og:type" content="website" />
     <meta key="og_site" property="og:site_name" content={name} />
-    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
-    <link rel="icon" type="image/png" href="/favicon.png" />
-    <link rel="favicon" type="image/png" href="/favicon.png" />
+    <link rel="shortcut icon" type="image/png" href="/logoEmed.png" />
+    <link rel="icon" type="image/png" href="/logoEmed.png" />
+    <link rel="favicon" type="image/png" href="/logoEmed.png" />
     <title key="title">
       {makeTitle(
         title.replace("teenagers", target),
