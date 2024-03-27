@@ -11,7 +11,7 @@ export const WhatIsHackathon = () => {
           Hackathon?
         </h1>
         <p className="text-xl md:text-2xl  md:p-0 text-gray-400">
-          Don&apos;t worry, there&apos;ll be no hacking involved.
+        &#40;Don't worry, there's no actual hacking involved!&#41;
         </p>
         <div className="text-xl md:text-2xl mt-4">
   A <span style={{ color: "#90E0EF", fontWeight: 'bold' }}>hackathon</span> is a
@@ -46,11 +46,7 @@ export const WhatIsHackathon = () => {
                 <p className="text-xl font-black">Build Amazing Projects</p>
               </div>
               <p>
-                At E-Med, you'll have the opportunity to participate in and host
-                workshops among peers, acquire valuable experience, forge
-                connections, and explore your potential. Engage with new
-                individuals, receive assistance from fellow participants, and
-                contribute to the support network within the coding community.
+              E-Med will be an in-person medical-themed hackathon in the Bay Area. Join us for twelve hours of making projects, connections, and positive change in our communities. No prior coding experience? No problem! We'll provide any and all support you'll need to have fun and leave with a new skill.
               </p>
             </div>
           </div>
@@ -61,7 +57,7 @@ export const WhatIsHackathon = () => {
                 <p className="text-xl font-black">Create Amazing Memories</p>
               </div>
               <p>
-                At E-Med, you'll have the opportunity to participate in and host
+                At Med, you'll have the opportunity to participate in and host
                 workshops among peers, acquire valuable experience, forge
                 connections, and explore your potential. Engage with new
                 individuals, receive assistance from fellow participants, and

@@ -106,7 +106,7 @@ export default function Home() {
                         <div className="flex items-center space-x-4">
                           <FiCalendar className="text-xl md:text-2xl lg:text-2xl" />
                           <span className="text-md md:text-lg lg:text-xl">
-                            May
+                            May XX, 2024
                           </span>
                         </div>
                         <div className="flex items-center space-x-4">
@@ -134,11 +134,7 @@ export default function Home() {
                 </div>
               </main>
               <p className="max-w-4xl text-lg mx-auto text-center p-6 md:p-0">
-                E-Med is going to be an in-person hackathon in the Bay Area.
-                Join us in 24 hours of hacking, workshops, and making
-                connections. No prior coding experience? No problem! We'll
-                provide all the support you need to learn coding and leave with
-                a new skill.
+                E-Med will be an in-person medical-themed hackathon in the Bay Area. Join us for twelve hours of making projects, connections, and positive change in our communities. No prior coding experience? No problem! We'll provide any and all support you'll need to have fun and leave with a new skill.
               </p>
             </div>
             <div className="mt-6 md:mt-[7vh]">
