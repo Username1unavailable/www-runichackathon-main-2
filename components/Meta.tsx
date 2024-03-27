@@ -7,7 +7,7 @@ const makeTitle = (title: string, name: string) =>
 const Meta = ({
   title = `E-Med - a hackathon like no other in Bay Area.`, // page title
   name = `E-Med - a hackathon like no other in Bay Area.`, // site name
-  description = "E-Med is taking place in May in the Bay Area. All middleschool, highschool, and college students are welcome at the hackathon!", // page description
+  description = "E-Med: the Bay Area's largest medical engineering hackathon!", // page description
   image = "/eMed.png", // social card image URL
   url = "https://eMed.rsvp",
   target = "teenagers",
