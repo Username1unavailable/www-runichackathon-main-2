@@ -130,7 +130,7 @@ export default function Home() {
                   </div>
                 </div>
                 <div className="md:w-1/2  p-6 md:p-0">
-                  <img src="/photogrid.png" className="gridImage select-none" />
+                  <img src="/ref.png" className="gridImage select-none" />
                 </div>
               </main>
               <p className="max-w-4xl text-lg mx-auto text-center p-6 md:p-0">
