@@ -5,9 +5,9 @@ const makeTitle = (title: string, name: string) =>
   title === name ? title : `${title} – ${name}`;
 
 const Meta = ({
-  title = `E-Med - a hackathon like no other in Bay Area.`, // page title
-  name = `E-Med - a hackathon like no other in Bay Area.`, // site name
-  description = "E-Med: the Bay Area's largest medical engineering hackathon! (GONE WRONG) (ALMOST DIED) (GONE SEXUAL????!)", // page description
+  title = `E-Med: the Bay Area's largest medical engineering hackathon!`, // page title
+  name = `E-Med: the Bay Area's largest medical engineering hackathon!`, // site name
+  description = "E-Med is on May XX, 2024 in the Bay Area. All high-schoolers, middle-schoolers, and undergrads can attend for free!", // page description
   image = "/eMed.png", // social card image URL
   url = "https://eMed.rsvp",
   target = "teenagers",
