@@ -32,11 +32,7 @@ export const WhatIsHackathon = () => {
                 <p className="text-xl font-black">Learn Something New</p>
               </div>
               <p>
-                At E-Med, you'll have the opportunity to participate in and host
-                workshops among peers, acquire valuable experience, forge
-                connections, and explore your potential. Engage with new
-                individuals, receive assistance from fellow participants, and
-                contribute to the support network within the coding community.
+              We want to make sure that everyone leaves with something new on their toolbelt! You'll have the change to participate in a variety of workshops among peers (or host your own!), learn new skills, explore your potential, and build lasting connections with amazing people. The E-Med team will be cheering you on every step of the way!
               </p>
             </div>
           </div>
@@ -48,8 +44,7 @@ export const WhatIsHackathon = () => {
                 <p className="text-xl font-black">Build Amazing Projects</p>
               </div>
               <p>
-              E-Med will be an in-person medical-themed hackathon in the Bay Area. Join us for twelve hours of making projects, connections, and positive change in our communities. No prior coding experience? No problem! We'll provide any and all support you'll need to have fun and leave with a new skill.
-              </p>
+              Are you going to assemble the perfect team, or work by yourself? Will you be building software or hardware? From robot arms, to cancer detection models, to goofy simulations, there's no limitations on what you can make at a hackathon; just your creativity vs the twelve hours! We can't wait to see what you got.              </p>
             </div>
           </div>
           <div className="grid grid-cols-1 gap-6">
@@ -59,11 +54,7 @@ export const WhatIsHackathon = () => {
                 <p className="text-xl font-black">Create Amazing Memories</p>
               </div>
               <p>
-                At Med, you'll have the opportunity to participate in and host
-                workshops among peers, acquire valuable experience, forge
-                connections, and explore your potential. Engage with new
-                individuals, receive assistance from fellow participants, and
-                contribute to the support network within the coding community.
+              Whether it's your first or your fifteenth, hackathons are always wildly fun! It's all about bonding over coding, brainstorming, and free-food-fueled teamwork. From new knowledge to new friendships, the memories you make in these twelve hours will be as awesome as the projects you create!
               </p>
             </div>
           </div>
