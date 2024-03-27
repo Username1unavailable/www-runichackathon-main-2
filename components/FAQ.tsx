@@ -3,7 +3,7 @@ const info = [
   
   {
     header: "What do I need?",
-    text: "Your laptop, chargers, anything for your hack (hardware?), sleeping bags, water bottles, and an open mind.",
+    text: "Your laptop, chargers/cables, anything for your hack (hardware?), water bottles, and all the creativity you can find!",
   },
   {
     header: "How much does it cost?",
@@ -11,19 +11,19 @@ const info = [
   },
   {
     header: "I'm not that good at coding...",
-    text: "E-Med is for hackers of all skill levels! We'll have workshops and other events so join us and let's learn together.",
+    text: "E-Med is for hackers of all skill levels! We'll have workshops, tech support, and all the things you'll need to learn something new.",
   },
   {
-    header: "What can I make",
+    header: "What can I make?",
     text: "Anything! Apps, art, sites, and hardware projects are all perfect for a hackathon.",
   },
   {
     header: "My parents are worried!",
-    text: "We're here to help, ask them to reach out to us at emedhacks@gmail.com and we'll make sure to answer all their questions. E-Med will be supervised by background checked adults.",
+    text: "We're here to help, ask them to reach out to us at CHANGETHIS@gmail.com and we'll make sure to answer all their questions. E-Med will be supervised by background checked adults.",
   },
   {
-    header: "I have another question",
-    text: "Reach out to emedhacks@gmail.com and we can work something out!",
+    header: "I have another question...",
+    text: "Reach out to CHANGETHIS@gmail.com and we can work something out!",
   },
 ];
 export const FAQ = () => {
