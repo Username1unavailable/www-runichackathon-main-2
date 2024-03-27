@@ -51,7 +51,7 @@ const Meta = ({
       <>
         <meta key="og_img" property="og:image" content={image} />
         <meta key="tw_card" name="twitter:card" content="summary_large_image" />
-        <meta key="tw_img" name="twitter:image" content={`/link-image.png`} />
+        <meta key="tw_img" name="twitter:image" content={`/eMed.png`} />
       </>
     )}
     <meta key="theme_color" name="theme-color" content={"#FF6961"} />
