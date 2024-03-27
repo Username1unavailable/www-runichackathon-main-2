@@ -11,15 +11,14 @@ export const Rundown = () => {
             <div className=" px-6 py-4  border-black border text-black" style={{backgroundColor: "#faf4e8"}}>
               <p className="font-black underline text-lg">Date & Time</p>
               <p>
-                Runic will start at 12pm on January 20th and end at 12pm on
-                January 21st.
+                eMed will take place in the Bay area on May.
               </p>
             </div>
             <div className="mt-2 px-6 py-4 border-black border text-black" style={{backgroundColor: "#faf4e8"}}>
               <p className="font-black underline text-lg">Eligibility</p>
               <p>
-                All highschoolers and middleschoolers are welcome to attend and
-                have an amazing time at Runic!
+                All college students, highschoolers, and middleschoolers are welcome to attend and
+                have an amazing time at eMed!
               </p>
             </div>
           </div>

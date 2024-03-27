@@ -106,7 +106,7 @@ export default function Home() {
                         <div className="flex items-center space-x-4">
                           <FiCalendar className="text-xl md:text-2xl lg:text-2xl" />
                           <span className="text-md md:text-lg lg:text-xl">
-                            Jan 20 - 21
+                            May
                           </span>
                         </div>
                         <div className="flex items-center space-x-4">
@@ -134,7 +134,7 @@ export default function Home() {
                 </div>
               </main>
               <p className="max-w-4xl text-lg mx-auto text-center p-6 md:p-0">
-                Runic is going to be an in-person hackathon in the Bay Area.
+                eMed is going to be an in-person hackathon in the Bay Area.
                 Join us in 24 hours of hacking, workshops, and making
                 connections. No prior coding experience? No problem! We'll
                 provide all the support you need to learn coding and leave with

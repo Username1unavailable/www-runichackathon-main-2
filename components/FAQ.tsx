@@ -1,9 +1,6 @@
 import { FAQBox } from "./FAQBox";
 const info = [
-  {
-    header: "Where is Runic?",
-    text: "You will get an email with more relevant information after signing up!",
-  },
+  
   {
     header: "What do I need?",
     text: "Your laptop, chargers, anything for your hack (hardware?), sleeping bags, water bottles, and an open mind.",
@@ -14,7 +11,7 @@ const info = [
   },
   {
     header: "I'm not that good at coding...",
-    text: "Runic is for hackers of all skill levels! We'll have workshops and other events so join us and let's learn together.",
+    text: "eMed is for hackers of all skill levels! We'll have workshops and other events so join us and let's learn together.",
   },
   {
     header: "What can I make",
@@ -22,11 +19,11 @@ const info = [
   },
   {
     header: "My parents are worried!",
-    text: "We're here to help, ask them to reach out to us at help@runic.rsvp and we'll make sure to answer all their questions. Runic will be supervised by background checked adults.",
+    text: "We're here to help, ask them to reach out to us at emedhacks@gmail.com and we'll make sure to answer all their questions. eMed will be supervised by background checked adults.",
   },
   {
     header: "I have another question",
-    text: "Reach out to help@runic.rsvp and we can work something out!",
+    text: "Reach out to emedhacks@gmail.com and we can work something out!",
   },
 ];
 export const FAQ = () => {

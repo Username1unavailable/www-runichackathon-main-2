@@ -30,7 +30,7 @@ export const WhatIsHackathon = () => {
                 <p className="text-xl font-black">Learn Something New</p>
               </div>
               <p>
-                At Runic, you'll have the opportunity to participate in and host
+                At eMed, you'll have the opportunity to participate in and host
                 workshops among peers, acquire valuable experience, forge
                 connections, and explore your potential. Engage with new
                 individuals, receive assistance from fellow participants, and
@@ -46,7 +46,7 @@ export const WhatIsHackathon = () => {
                 <p className="text-xl font-black">Build Amazing Projects</p>
               </div>
               <p>
-                At Runic, you'll have the opportunity to participate in and host
+                At eMed, you'll have the opportunity to participate in and host
                 workshops among peers, acquire valuable experience, forge
                 connections, and explore your potential. Engage with new
                 individuals, receive assistance from fellow participants, and
@@ -61,7 +61,7 @@ export const WhatIsHackathon = () => {
                 <p className="text-xl font-black">Create Amazing Memories</p>
               </div>
               <p>
-                At Runic, you'll have the opportunity to participate in and host
+                At eMed, you'll have the opportunity to participate in and host
                 workshops among peers, acquire valuable experience, forge
                 connections, and explore your potential. Engage with new
                 individuals, receive assistance from fellow participants, and

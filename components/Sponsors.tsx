@@ -10,7 +10,7 @@ export const Sponsors = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-4	px-[10vw] md:px-2">
           <SponsorBox
             header={"HCB"}
-            text={"Allows us to manage our finances and make Runic work!"}
+            text={"Allows us to manage our finances and make eMed Hacks work!"}
             imageUrl={`https://assets.hackclub.com/hcb-dark.svg`}
             link={"https://hcb.hackclub.com"}
           />
@@ -20,7 +20,7 @@ export const Sponsors = () => {
             <p className="text-center mt-4">
               Interested in sponsoring & helping create a magical programming
               experience for teenagers in the Bay Area? Drop us a line on{" "}
-              <a href="mailto:sponsor@runic.rsvp" className="underline">
+              <a href="mailto:emedhacks@gmail.com" className="underline">
                 email
               </a>{" "}
               or{" "}

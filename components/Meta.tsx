@@ -5,11 +5,11 @@ const makeTitle = (title: string, name: string) =>
   title === name ? title : `${title} – ${name}`;
 
 const Meta = ({
-  title = `Runic - a hackathon like no other in San Francisco.`, // page title
-  name = `Runic - a hackathon like no other in San Francisco`, // site name
-  description = "Runic is taking place on Jan 20-21 in SF. All middleschool and highschool students are welcome at the hackathon!", // page description
+  title = `eMed - a hackathon like no other in Bay Area.`, // page title
+  name = `eMed - a hackathon like no other in Bay Area.`, // site name
+  description = "eMed is taking place in May in the Bay Area. All middleschool, highschool, and college students are welcome at the hackathon!", // page description
   image = "/link-image.png", // social card image URL
-  url = "https://runic.rsvp",
+  url = "https://eMed.rsvp",
   target = "teenagers",
   children,
 }: any) => (
