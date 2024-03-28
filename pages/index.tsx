@@ -121,7 +121,7 @@ export default function Home() {
                       <p>I'm interested:</p>
                       <a
                         target="_blank"
-                        href="https://forms.gle/axmkvofzWNTUKdeY8"
+                        href="https://forms.gle/9GaurzRoECPgAy2e8"
                         className="flex space-x-2 items-center justify-center underline text-center rounded-md bg-accent font-bold text-lg hover:bg-red-700 transition w-full py-3"
                       >
                         <span>Register</span>
