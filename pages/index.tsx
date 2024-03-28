@@ -120,7 +120,7 @@ export default function Home() {
                     <div className="mt-6 flex flex-col space-y-1">
                       <p>I'm interested:</p>
                       <a
-                        href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSe7JXdx3GDwhRVSimAHBWwS96MpNBfLQarPC4nr26qzg2xwYg/viewform"
                         className="flex space-x-2 items-center justify-center underline text-center rounded-md bg-accent font-bold text-lg hover:bg-red-700 transition w-full py-3"
                       >
                         <span>Register</span>
@@ -134,7 +134,11 @@ export default function Home() {
                 </div>
               </main>
               <p className="max-w-4xl text-lg mx-auto text-center p-6 md:p-0">
-                E-Med will be an in-person medical-themed hackathon in the Bay Area. Join us for twelve hours of making projects, connections, and positive change in our communities. No prior coding experience? No problem! We'll provide any and all support you'll need to have fun and leave with a new skill.
+                E-Med will be an in-person medical-themed hackathon in the Bay
+                Area. Join us for twelve hours of making projects, connections,
+                and positive change in our communities. No prior coding
+                experience? No problem! We'll provide any and all support you'll
+                need to have fun and leave with a new skill.
               </p>
             </div>
             <div className="mt-6 md:mt-[7vh]">
