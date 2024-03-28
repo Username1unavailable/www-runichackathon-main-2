@@ -26,7 +26,7 @@ export const Rundown = () => {
           />
         </div>
 
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
+        <a href="https://forms.gle/9GaurzRoECPgAy2e8">
           <div className="flex items-center max-w-3xl mx-auto mt-4 space-x-2 justify-center px-4 py-2 text-accent border border-black hover:bg-transparent hover:text-black transition rounded-md w-full text-lg underline" style={{backgroundColor: "#faf4e8"}}>
             <p>Register</p>
 
