@@ -19,11 +19,11 @@ const info = [
   },
   {
     header: "My parents are worried!",
-    text: "We're here to help, ask them to reach out to us at CHANGETHIS@gmail.com and we'll make sure to answer all their questions. E-Med will be supervised by background checked adults.",
+    text: "We're here to help, ask them to reach out to us at team@emedhacks.com and we'll make sure to answer all their questions. E-Med will be supervised by background checked adults.",
   },
   {
     header: "I have another question...",
-    text: "Reach out to CHANGETHIS@gmail.com and we can work something out!",
+    text: "Reach out to team@emedhacks.com and we can work something out!",
   },
 ];
 export const FAQ = () => {

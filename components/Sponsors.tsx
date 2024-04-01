@@ -25,7 +25,7 @@ export const Sponsors = () => {
               </a>{" "}
               or{" "}
               <a
-                href="https://hcb.hackclub.com/donations/start/runic"
+                href="https://hcb.hackclub.com/emed-hacks/team"
                 className="underline"
               >
                 donate directly!
