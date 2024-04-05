@@ -106,7 +106,7 @@ export default function Home() {
                         <div className="flex items-center space-x-4">
                           <FiCalendar className="text-xl md:text-2xl lg:text-2xl" />
                           <span className="text-md md:text-lg lg:text-xl">
-                            May XX, 2024
+                            July XX, 2024
                           </span>
                         </div>
                         <div className="flex items-center space-x-4">
