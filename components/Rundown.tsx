@@ -11,7 +11,7 @@ export const Rundown = () => {
             <div className=" px-6 py-4  border-black border text-black" style={{backgroundColor: "#faf4e8"}}>
               <p className="font-black underline text-lg">Date & Time</p>
               <p>
-              Join us from 9 AM - 9 PM on May XX, 2024!              </p>
+              Join us from 9 AM - 9 PM on September 28, 2024!              </p>
             </div>
             <div className="mt-2 px-6 py-4 border-black border text-black" style={{backgroundColor: "#faf4e8"}}>
               <p className="font-black underline text-lg">Eligibility</p>
